@@ -1,0 +1,37 @@
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(41deg, rgba(0,0,0,1) 0%, rgba(99,99,99,1) 5%, rgba(255,255,255,1) 100%);
+}
+.name_of_objects{
+    text-shadow: 1px 1px 10px black;
+    color:orange
+}
+#camera{
+    width: 50%;
+    height: 30%;
+    box-shadow: 1px 1px 20px black;
+}
+button{
+    box-shadow: 1px 1px 10px black;
+}
+#capture{
+    color: green;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#identify{
+    color: turquoise;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h6{
+    position: fixed;
+    width: 50%;
+    bottom: 1px;
+    color: white;
+}
